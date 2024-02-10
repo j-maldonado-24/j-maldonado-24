@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there, I'm Julian 👋
+I'm a Business Analytics Professional with a passion for Data and Business Insights. Here's a bit about me:
 
-<!--
-**j-maldonado-24/j-maldonado-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Currently working on TripleTen Business Intelligence Analytics Bootcamp
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Tableau & Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on solving business intelligence problems with data analysis.
+
+💬 Ask me about NBA Analytics.
+
+📫 How to reach me: 
+
+Fun Facts About Me 🎉
+I once [Interesting Fact About Yourself]
+I'm a huge fan of [Your Favorite Hobby/Activity]
+I've traveled to [Number] countries and counting!
+Participating in Outsourcing Projects ✨
+I'm open to participating in outsourcing projects and contributing my expertise to exciting ventures. Let's collaborate and create something amazing together!
+
+Primary Tech Skills 💻
+[Tech Skill 1]
+[Tech Skill 2]
+[Tech Skill 3]
+[Tech Skill 4]
+[Tech Skill 5]
