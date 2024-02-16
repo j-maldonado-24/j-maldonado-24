@@ -13,10 +13,10 @@ I'm a Business Analytics Professional with a passion for Data and Business Insig
 
 Fun Facts About Me 🎉
 - I graduated with 2 business degrees from the McCombs School of Business at UT Austin.
-- I am a licensed Realtor, Real Estate Broker, and Health & Life Insurance Agent.
-- I once won a man-pagaent in college.
-- I'm a huge fan of NBA Basketball and can beat anyone in trivia.
-- I have competed and won in over 25 Madden NFL video game tournaments.
+- I am a licensed: Realtor, Mortgage Lender, Real Estate Broker, and Health & Life Insurance Agent.
+- I once won a man-pageant in college.
+- I'm a huge fan of NBA Basketball and can beat anyone in sports trivia.
+- I have won over 25 Madden NFL video game tournaments.
 - I'm fluent in Spanish and I'm currently learning Portuguese. 
 
 Participating in Outsourcing Projects ✨
