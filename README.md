@@ -23,8 +23,9 @@ Participating in Outsourcing Projects ✨
 I'm open to participating in outsourcing projects and contributing my expertise to exciting ventures. Let's collaborate and create something amazing together!
 
 Primary Tech Skills 💻
-- [Tech Skill 1]
-- [Tech Skill 2]
-- [Tech Skill 3]
-- [Tech Skill 4]
-- [Tech Skill 5]
+- SQL
+- Tableau
+- Power BI
+- Python
+- GitHub
+
